@@ -1,0 +1,31 @@
+body{
+  border-style: groove;
+  border-width: 10px;
+  border-color: red green blue yellow;
+  border-radius: 20px;
+  background-color: lightblue;
+}
+h1{
+   text-align: center;
+  color: red;
+   text-decoration: underline;
+   text-transform: capitalize;
+   text-shadow: 2px 2px black;
+}
+th {
+  background-color: #4CAF50;
+}
+table{
+   margin: auto;
+}
+td{
+  border-bottom: 6px solid red; 
+  background-color: lightgrey;
+  text-decoration: 
+}
+th.impact {
+  font-family: Impact, Charcoal, sans-serif;
+}
+th.local {
+  font-family: Impact, Charcoal, sans-serif;
+}
